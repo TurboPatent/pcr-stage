@@ -117,40 +117,40 @@
     "terms": [],
     "glossary": [
       {
+        "term": "RT-PCR",
+        "definition": "reverse transcription polymerase chain reaction, a variant of polymerase chain reaction (PCR), a technique commonly used to detect RNA expression.RT-PCR is not to be confused with real-time polymerase chain reaction (qPCR). RT-PCR is used to qualitatively detect gene expression through the creation of complementary DNA (cDNA) transcripts from RNA. \nA common application of PCR is the study of patterns of gene expression. Tissues (or even individual cells) can be analyzed at different stages to see which genes have become active, or which have been switched off. This application can also use quantitative PCR to quantitate the actual levels of expression. \nqPCR is used to quantitatively measure the amplification of DNA using fluorescent dyes. qPCR is also referred to as quantitative PCR, quantitative real-time PCR, and real-time quantitative PCR.\nAlthough RT-PCR and the traditional PCR both produce multiple copies of particular DNA isolates through amplification, the applications of the two techniques are fundamentally different. Traditional PCR is used to exponentially amplify target DNA sequences. RT-PCR is used to clone expressed genes by reverse transcribing the RNA of interest into its DNA complement (cDNA) through the use of reverse transcriptase. Subsequently, the newly synthesized cDNA is amplified using traditional PCR."
+      },
+      {
         "term": "cDNA",
         "definition": "complementary DNA, DNA synthesized from a single stranded RNA (e.g., messenger RNA (mRNA) or microRNA) template in a reaction catalyzed by the enzyme reverse transcriptase."
-      },
-      {
-        "term": "Assay",
-        "definition": "an analytic procedure in molecular biology for qualitatively assessing or quantitatively measuring the presence, amount, or functional activity of a target entity (the analyte)."
-      },
-      {
-        "term": "Reverse transcriptase",
-        "definition": "reverse transcriptase (RT) is an enzyme used to generate complementary DNA (cDNA) from an RNA template, a process termed reverse transcription."
       },
       {
         "term": "mPCR",
         "definition": "multiplex polymerase chain reaction, the use of polymerase chain reaction to amplify several different DNA sequences simultaneously (as if performing many separate PCR reactions all together in one reaction). This process amplifies DNA in samples using multiple primers and a temperature-mediated DNA polymerase in a thermal cycler. The primer design for all primers pairs has to be optimized so that all primer pairs can work at the same annealing temperature during PCR.\nMultiplex-PCR consists of multiple primer sets within a single PCR mixture to produce amplicons of varying sizes that are specific to different DNA sequences. By targeting multiple sequences at once, additional information may be gained from a single test run that otherwise would require several times the reagents and more time to perform. Annealing temperatures for each of the primer sets must be optimized to work correctly within a single reaction, and amplicon sizes, i.e., their base pair length, should be different enough to form distinct bands when visualized by gel electrophoresis. Alternatively, if amplicon sizes overlap, the different amplicons may be differentiated and visualised using primers that have been dyed with different colour fluorescent dyes."
       },
       {
-        "term": "3' end",
-        "definition": "\"three prime end\" of a DNA or RNA strand, terminating at the hydroxyl group of the third carbon in the sugar-ring, and is known as the tail end. The 3′-hydroxyl is necessary in the synthesis of new nucleic acid molecules as it is ligated (joined) to the 5′-phosphate of a separate nucleotide, allowing the formation of strands of linked nucleotides."
+        "term": "5' end",
+        "definition": "the \"five prime end\", the end of the DNA or RNA strand that has the fifth carbon in the sugar-ring of the deoxyribose or ribose at its terminus. A phosphate group attached to the 5′-end permits ligation of two nucleotides, i.e., the covalent binding of a 5′-phosphate to the 3′-hydroxyl group of another nucleotide, to form a phosphodiester bond. Removal of the 5′-phosphate prevents ligation. "
       },
       {
-        "term": "RT-PCR",
-        "definition": "reverse transcription polymerase chain reaction, a variant of polymerase chain reaction (PCR), a technique commonly used to detect RNA expression.RT-PCR is not to be confused with real-time polymerase chain reaction (qPCR). RT-PCR is used to qualitatively detect gene expression through the creation of complementary DNA (cDNA) transcripts from RNA. \nA common application of PCR is the study of patterns of gene expression. Tissues (or even individual cells) can be analyzed at different stages to see which genes have become active, or which have been switched off. This application can also use quantitative PCR to quantitate the actual levels of expression. \nqPCR is used to quantitatively measure the amplification of DNA using fluorescent dyes. qPCR is also referred to as quantitative PCR, quantitative real-time PCR, and real-time quantitative PCR.\nAlthough RT-PCR and the traditional PCR both produce multiple copies of particular DNA isolates through amplification, the applications of the two techniques are fundamentally different. Traditional PCR is used to exponentially amplify target DNA sequences. RT-PCR is used to clone expressed genes by reverse transcribing the RNA of interest into its DNA complement (cDNA) through the use of reverse transcriptase. Subsequently, the newly synthesized cDNA is amplified using traditional PCR."
+        "term": "Assay",
+        "definition": "an analytic procedure in molecular biology for qualitatively assessing or quantitatively measuring the presence, amount, or functional activity of a target entity (the analyte)."
+      },
+      {
+        "term": "3' end",
+        "definition": "\"three prime end\" of a DNA or RNA strand, terminating at the hydroxyl group of the third carbon in the sugar-ring, and is known as the tail end. The 3′-hydroxyl is necessary in the synthesis of new nucleic acid molecules as it is ligated (joined) to the 5′-phosphate of a separate nucleotide, allowing the formation of strands of linked nucleotides."
       },
       {
         "term": "nucleic acid directionality",
         "definition": "the end-to-end chemical orientation of a single strand of nucleic acid. In a single strand of DNA or RNA, the chemical convention of naming carbon atoms in the nucleotide sugar-ring means that there will be a 5′-end, which frequently contains a phosphate group attached to the 5′ carbon of the ribose ring, and a 3′-end (usually pronounced \"five prime end\" and \"three prime end\"), which typically is unmodified from the ribose -OH substituent. In a DNA double helix, the strands run in opposite directions to permit base pairing between them, which is essential for replication or transcription of the encoded information.\nThe relative positions of structures along a strand of nucleic acid, including genes and various protein binding sites, are usually noted as being either upstream (towards the 5′-end) or downstream (towards the 3′-end). (See also upstream and downstream.)"
       },
       {
-        "term": "Genotyping",
-        "definition": "determining differences in the genetic make-up (genotype) of an individual by examining the individual's DNA sequence using biological assays and comparing it to another individual's sequence or a reference sequence. It reveals the alleles an individual has inherited from their parents."
+        "term": "Reverse transcriptase",
+        "definition": "reverse transcriptase (RT) is an enzyme used to generate complementary DNA (cDNA) from an RNA template, a process termed reverse transcription."
       },
       {
-        "term": "5' end",
-        "definition": "the \"five prime end\", the end of the DNA or RNA strand that has the fifth carbon in the sugar-ring of the deoxyribose or ribose at its terminus. A phosphate group attached to the 5′-end permits ligation of two nucleotides, i.e., the covalent binding of a 5′-phosphate to the 3′-hydroxyl group of another nucleotide, to form a phosphodiester bond. Removal of the 5′-phosphate prevents ligation. "
+        "term": "Genotyping",
+        "definition": "determining differences in the genetic make-up (genotype) of an individual by examining the individual's DNA sequence using biological assays and comparing it to another individual's sequence or a reference sequence. It reveals the alleles an individual has inherited from their parents."
       }
     ]
   },
